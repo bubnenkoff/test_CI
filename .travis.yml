@@ -1,0 +1,8 @@
+language: d
+deploy:
+  provider: releases
+  api_key: "yMUEwW7Yf5XqwM5x4FR6"
+  file: "FILE TO UPLOAD"
+  skip_cleanup: true
+  on:
+    tags: true
