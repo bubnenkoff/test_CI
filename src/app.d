@@ -6,4 +6,5 @@ import std.file;
 void main()
 {
 	writeln("Hello");
+	writeln("world);
 }
